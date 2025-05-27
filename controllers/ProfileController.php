@@ -28,7 +28,7 @@ class ProfileController extends Controller
             if ($model->imageFile) {
                 $filename = $model->upload($user->id);
                 if ($filename) {
-                    // Удаляем старое изображение, если оно существует
+                
                     if ($user->profile_image && file_exists('uploads/profile_images/' . $user->profile_image)) {
                         unlink('uploads/profile_images/' . $user->profile_image);
                     }
