@@ -6,6 +6,18 @@
     <br>
 </p>
 
+Проект: "CodeOlymp"
+
+Функции:
+1) Авторизация;
+2) Регистрация;
+3) Запись на турнир;
+4) Просмотр турниров;
+5) Просмотр заявок;
+6) Фильтрация.
+
+
+
 Yii 2 Basic Project Template is a skeleton [Yii 2](https://www.yiiframework.com/) application best for
 rapidly creating small projects.
 
