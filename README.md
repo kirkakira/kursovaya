@@ -16,7 +16,11 @@
 5) Просмотр заявок;
 6) Фильтрация.
 
-
+Требования:
+1) MariaDb(10.8);
+2) Apache 2.4;
+3) PHP 8.1;
+   
 
 Yii 2 Basic Project Template is a skeleton [Yii 2](https://www.yiiframework.com/) application best for
 rapidly creating small projects.
