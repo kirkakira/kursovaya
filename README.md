@@ -21,6 +21,7 @@
 2) Apache 2.4;
 3) PHP 8.1;
    
+База данных в формате sql находится в архиве - "olimp.sql"
 
 Yii 2 Basic Project Template is a skeleton [Yii 2](https://www.yiiframework.com/) application best for
 rapidly creating small projects.
